@@ -1,4 +1,4 @@
-<?php namespace Casas;
+<?php namespace App\Components;
 
 class Navbar {
     public function print() {
