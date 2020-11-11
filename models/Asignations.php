@@ -1,0 +1,3 @@
+id
+house_id
+family_id

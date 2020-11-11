@@ -1,0 +1,6 @@
+id
+rooms_number
+bathroom_number
+direction
+house_size
+postal_code_id

@@ -1,0 +1,9 @@
+id
+name
+lastname
+email
+born_date
+civil_status
+income_type
+monthly_income
+password
