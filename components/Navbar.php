@@ -1,7 +1,9 @@
 <?php namespace App\Components;
 
-class Navbar {
-    public function print() {
+class Navbar 
+{
+    public function print()
+    {
         echo "
         <nav>
             <ul>
