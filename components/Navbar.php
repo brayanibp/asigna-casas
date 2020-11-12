@@ -4,7 +4,7 @@ class Navbar
 {
     public function print()
     {
-        echo "
+        return "
         <nav>
             <ul>
                 <li>Home</li>
